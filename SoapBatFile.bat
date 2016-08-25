@@ -1,0 +1,1 @@
+"C:\Program Files\SmartBear\ReadyAPI-1.8.0\bin\testrunner.bat" "-RJUnit-Style HTML Report" "-EDefault environment" D:\SOAP_Project\SOAP-Project-1-soapui-project.xml
